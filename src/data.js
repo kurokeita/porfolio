@@ -31,6 +31,22 @@ export const projects = [
     image: "./ninehouse.gif",
     link: "https://landlord.ninehouse.vn/",
   },
+  {
+    title: "Funchat",
+    subtitle: "Laravel 7.0, MySQL, MongoDB, Redis, Cronjob, Docker, ReactJS, SocketIO",
+    description:
+      "A tool for the company customer service team to interact with customers across multiple Facebook pages: receive and reply message, create conversation for easily tagging and managing, create Facebook autoreply templates, generate reports...",
+    image: "./funchat.gif",
+    link: "https://funchat-v2.notifun.com/",
+  },
+  {
+    title: "CSI",
+    subtitle: "Laravel 7.0, MySQL, MongoDB, Redis, Cronjob, Docker",
+    description:
+      "Create, manage and inject customer surveys to company's websites",
+    image: "./csi.gif",
+    link: "https://v2.notifun.com/",
+  },
 ];
 
 export const skills = [
