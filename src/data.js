@@ -61,6 +61,8 @@ export const skills = [
   "JavaScript",
   "ReactJS",
   "NodeJS",
+  "SocketIO",
+  "Flutter",
   "Windows",
   "Linux",
   "MacOS"
