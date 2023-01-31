@@ -15,7 +15,7 @@ export default function Navbar() {
             Skills
           </a>
           <a href="#projects" className="mr-5 hover:text-white">
-            Past Work
+            Past Works
           </a>
         </nav>
         <a
