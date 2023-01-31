@@ -16,7 +16,6 @@ export default function Projects() {
           </p>
         </div>
         <div className="flex flex-wrap -m-4 grid grid-cols-2 gap-4">
-          {/* <div className="flex flex-wrap -m-4"> */}
           {projects.map((project) => (
             <div>
               <a
